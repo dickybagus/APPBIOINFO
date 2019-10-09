@@ -6,10 +6,12 @@
 <h4 align ="center">Aplikasi Bioinformatika Karya Anak Bangsa untuk memperkarya Khasanah dan Pengembangan <strong> Ilmu Bioinformatika Indonesia</strong></h4>
 
 ## DAFTAR ISI 
-- [Mengenai Kami] (#Mengenai Kami)
-- [Motivasi] (#Motivasi)
-- [Daftar Aplikasi] (#Daftar Aplikasi)
-- [Komunitas] (#Komunitas)
+- [Mengenai Kami](#mengenai-kami)
+- [Motivasi](#motivasi)
+- [Daftar Aplikasi](#daftar-aplikasi)
+- [Komunitas](#komunitas)
+
+## Mengenai-Kami 
 
 ## Motivasi 
 Komunitas ini memiliki tujuan 
@@ -19,6 +21,7 @@ Komunitas ini memiliki tujuan
 - Menjadi tempat untuk menjalin kerjasama penelitian
 - Mendapatkan update pengetahuan dg adanya kuliah online berkala setiap bulan.
 
+## Daftar Aplikasi 
 ## Komunitas 
 Group ini terbuka untuk umum berdiskusi terkait penelitian Science dan Bioinformatika. Apabila tertarik untuk belajar bersama mengenai Bioinformatika, dapat bergabung di group telegram [SOLUSI BIOINFORMATIKA](https://t.me/solusibioinformatika)
 
