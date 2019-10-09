@@ -19,9 +19,10 @@ Komunitas ini memiliki tujuan
 - Menjadi tempat untuk menjalin kerjasama penelitian
 - Mendapatkan update pengetahuan dg adanya kuliah online berkala setiap bulan.
 
-## Daftar Aplikasi 
+## Daftar Aplikasi
+### [RUJAKBASE.ID](http://rujakbase.id)
 <details>
-  <summary>### [RUJAKBASE.ID](http://rujakbase.id)</summary>
+  <summary>READ RUJAKBASE</summary>
 ![RUJAK BASE LOGO](http://rujakbase.id/sites/default/files/pictures/logo/RujakBase1%20_400.png)
 
 The RujakBase is a resource to provide a valuable repository for basic, translational, and applied research of tropical fruit especially Indonesian Local Fruits (Buah Nusantara). The objective is to collect, analyze, integrate genetics, genomics, transcriptomics, and metabolomics data to enhance more rapid research progress. The RujakBase maintained by Collaborative Research Group on Tropical Fruits, Crop Production Division, Department of Agronomy and Horticulture, IPB University.</details>
