@@ -1,6 +1,6 @@
 # APPBIOINFO-ID
 
-<h3 align="center">APLIKASI BIOINFORMATIKA INDONESIA (APPBIOINFO-ID</h3>
+<h3 align="center"><strong>APLIKASI BIOINFORMATIKA INDONESIA (APPBIOINFO-ID)</strong></h3>
 <p align="center">
 :microscope:</p> 
 <h4 align ="center">Aplikasi Bioinformatika Karya Anak Bangsa untuk memperkarya Khasanah dan Pengembangan <strong> Ilmu Bioinformatika Indonesia</strong></h4>
